@@ -69,7 +69,7 @@ nav a:hover {
 }
 
 #mission {
-    background-image: url(./HERO1.jpg);
+    background-image: url(images/HERO1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
